@@ -6,6 +6,7 @@
   - Dart
   - React
   - SolidJS
+  - Rust 🦀
 - 📫 How to reach me ...
   - Don't unless you're giving me a coffee
 <!---
