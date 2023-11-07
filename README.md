@@ -2,11 +2,11 @@
 - 👀 I’m interested in ...
   - Fullstack development
   - Media Streaming
+  - Console homebrew 
 - 🌱 I’m currently learning ...
-  - Dart
-  - React
-  - SolidJS
   - Rust 🦀
+  - Go
+  - C++ (only to reinforce my love for rust)
 - 📫 How to reach me ...
   - Don't unless you're giving me a coffee
 <!---
